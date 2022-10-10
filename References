@@ -1,0 +1,11 @@
+1.https://stackoverflow.com/questions/54635355/what-does-log-prob-do
+
+2.Calculating KL Divergence
+  https://stats.stackexchange.com/questions/318748/deriving-the-kl-divergence-loss-for-vaes
+
+3.Variational Auto Encoder Theory
+  https://jaan.io/what-is-variational-autoencoder-vae-tutorial/	
+
+4.Variational Auto Encoder Tensorflow implementation 
+  https://github.com/altosaar/variational-autoencoder/blob/master/train_variational_autoencoder_tensorflow.py	
+ 
